@@ -83,4 +83,90 @@
 
 
 
+
+
+
+
+// MATH METHOD AND DATE METHOD STARTED 
+
+
+// QUESTION 1
+
+
+// Prompting the user for input
+// let userInput = +prompt ("Enter a positive integer:");
+
+// let num = `45`;
+// let value = `45`;
+// let round = `45`;
+// let extra = `45`;
+
+//  console.log(num);
+//  console.log(value);
+//  console.log(round);
+//  console.log(extra);
+
+
+// QUESTION 2
+
+
+// let num = `-35`;
+// let value = `-35`;
+// let round = `-35`;
+// let extra = `-35`;
+
+//  console.log(num);
+//  console.log(value);
+//  console.log(round);
+//  console.log(extra);
+
+
+// QUESTION 3
+
+
+// let num = 3.54214;
+// let value = 3;
+// let round = 3;
+// let ceil = 4;
+
+
+// console.log(num);
+// console.log(value);
+// console.log(round);
+// console.log(ceil);
+
+// QUESTION 4
+
+
+
+// let num = -3.54214;
+// let value = -3;
+// let round = -3;
+// let ceil = -4;
+
+
+// console.log(num);
+// console.log(value);
+// console.log(round);
+// console.log(ceil);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
